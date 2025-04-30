@@ -2,7 +2,6 @@
 # 1. História de Usuário
 
 A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
-
 <table>
     <thead>
         <tr style="background-color: purple; color: white" >
@@ -17,27 +16,44 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         <tr>
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US01</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, quero poder assitir vídeos para meu entreterimento</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Ao entrar no aplicativo o vídeo já deve aparecer na página inicial</li><li> A tela do vídeo deve estar maximizada na tela do celular</li><li>Os vídeos devem aparecer em sequência</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como administrador, quero listar e cadastrar os funcionários no meu sistema para gerar as folhas de pagamentos</td>
+            <td style="border-style:solid;border-width:1px;text-align:left;vertical-align:middle" rowspan="1"><ol><li>O administrador pode listar todos os funcionários cadastrados no sistema.</li><li>O administrador pode cadastrar novos funcionários no sistema.</li><li>A folha de pagamento é gerada automaticamente após o cadastro de todos os funcionários.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF07</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF03</td>
         </tr>
         <tr>
-            <span id="ustory-01"></span>
+            <span id="ustory-02"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US02</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como usuário regular, desejo ter um perfil para interagir com outros na plataforma</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes</li><li> O perfil pode ser privado ou público</li></ol></td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle"> Baixa </td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF10</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como administrador, quero listar e cadastrar as movimentações financeiras no meu sistema para manter controle de I/O</td>
+            <td style="border-style:solid;border-width:1px;text-align:left;vertical-align:middle" rowspan="1"><ol><li>O administrador pode consultar todas as movimentações financeiras realizadas.</li><li>O administrador pode cadastrar novas movimentações financeiras.</li><li>O sistema deve registrar todas as movimentações financeiras realizadas para controle.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF04</td>
         </tr>
         <tr>
-            <span id="ustory-01"></span>
+            <span id="ustory-03"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu,como usuário regular, desejo acessar os outros perfis existentes para ver o conteúdo deles</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>As informações do usuário devem estar evidentes aos visitantes</li><li> Os vídeos postados devem aparecer ao entrar no perfil para que seja possível seu acesso</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como administrador, quero poder modificar cadastros de funcionários no meu sistema para manter atualizado meu banco de dados</td>
+            <td style="border-style:solid;border-width:1px;text-align:left;vertical-align:middle" rowspan="1"><ol><li>O administrador pode editar os dados cadastrais dos funcionários já registrados.</li><li>Após a modificação, as alterações devem ser salvas no banco de dados imediatamente.</li><li>O sistema deve garantir que os dados modificados sejam refletidos corretamente nas folhas de pagamento.</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">-</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF02</td>
         </tr>
+        <tr>
+            <span id="ustory-04"></span>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como administrador, quero poder consultar os registros da autoria para não haver adulteração dos dados</td>
+            <td style="border-style:solid;border-width:1px;text-align:left;vertical-align:middle" rowspan="1"><ol><li>O administrador pode visualizar um log de todas as ações realizadas no sistema.</li><li>O log deve conter informações sobre quem realizou a ação e quando foi realizada.</li><li>As alterações devem ser registradas de forma imutável, garantindo a integridade dos dados.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
+        </tr>
+        <tr>
+            <span id="ustory-05"></span>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US05</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Como consultor, quero visualizar as informações da empresa para apoiar o administrador na tomada de decisões estratégicas</td>
+            <td style="border-style:solid;border-width:1px;text-align:left;vertical-align:middle" rowspan="1"><ol><li>O consultor deve poder acessar relatórios financeiros e operacionais da empresa.</li><li>O consultor tem permissão de apenas leitura e não pode modificar dados.</li><li>As informações exibidas devem ser atualizadas em tempo real.</li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Média</td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF05</td>
+        </tr>
+    </tbody>
 </table>
 
 <div style="text-align: center">

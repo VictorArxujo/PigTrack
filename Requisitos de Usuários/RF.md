@@ -2,14 +2,15 @@
 
 <p align="justify">A <i>Tabela 1</i> a seguir contém os Requisitos Funcionais (RF) elicitados utizando a técnica de Brainstorm.</p>
 
-| ID   |                                 Requisito                                 | Prioridade | Requisitos Relacionados |
-| :--: | :-----------------------------------------------------------------------: | :--------: | :---------: |
-| RF01 |              O usuário deve poder personalizar seu ambiente.              |  Média     |    RF12     |
-| RF02 |           O usuário deve poder acessar o seu progresso no jogo.           |  Alta      |      RF25   |
-| RF03 |              O usuário deve poder acessar seu nível no jogo.              |  Baixa     |     -       |
-| RF04 |                 O usuário deve poder ver suas conquistas.                 |            |             |
-| RF05 |        O usuário deve poder escolher a dificuldade de suas lições.        |            |             |
-| RF06 |       O usuário deve poder determinar metas diárias a ser comprida.       |            |             |
+| ID   |                                 Requisito                                         | Categoria/Tipo           | Prioridade | Requisitos Relacionados |
+| :--: | :--------------------------------------------------------------------------------:|:-------------------------|:----------:|:------------------------:|
+| RF01 | O Software deve listar os funcionários para que o administrador possa consultá-los. | Funcionalidade/Consultas | Alta       | –                        |
+| RF02 | O Software deve permitir que o administrador cadastre movimentações da empresa.    | Funcionalidade/Cadastro  | Alta       | –                        |
+| RF03 | O Software deve gerar a folha de pagamentos mensal da empresa.                     | Funcionalidade/Geração   | Alta       | –                        |
+| RF04 | O Software deve listar as movimentações financeiras para o administrador.         | Funcionalidade/Consultas | Média      | –                        |
+| RF05 | O Software deve permitir que o administrador cadastre os usuários.                | Funcionalidade/Cadastro  | Alta       | –                        |
+| RF06 | O Software deve permitir que o administrador consulte os registros de auditoria                | Funcionalidade/Auditoria  | Alta       | –                        |
+
 
 
 <div style="text-align: center">

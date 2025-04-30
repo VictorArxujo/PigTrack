@@ -4,9 +4,10 @@
 
 | ID   |                                 Requisito NF                              | Categoria/Tipo | Prioridade | Requisitos Relacionados |
 | :--: | :-----------------------------------------------------------------------: |:-------------: | :--------: | :-----------------: |
-| RF01 |  O usuário deve ser capaz de finalizar a compra com menos de 3 cliques na página. | Produto/Usabilidade               |Média       |    RNF12             |
-| RF02 |  O executável do sistema não deve ser superior a 512 Kbytes.     |  Produto/eficiência     |Alta        |    RF8              |
-| RF03 |  O sistema deve ser implementado na linguagem Python.              |  Organizacionais/Implementação       |Baixa       |     -               |
+| RNF01 |  Os cadastros de funcionarios devem ser validados. | Produto/Usabilidade               |Alta       |    RF01, RF05            |
+| RNF02 |  O sistema deve poder ser acessado em qualquer lugar.     |  Produto/eficiência     |Alta        |    -              |
+| RNF03 |  As ações do sistema devem ser monitoradas.              |  Produto/Segurança/Auditabilidade       |Média       |    RF06               |
+| RNF04 |  As entradas do sistema não podem ser excluidas definitivamente.              |  Produto/Segurança/Integridade dos Dados       |Alta       |    RF06               |
 
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
