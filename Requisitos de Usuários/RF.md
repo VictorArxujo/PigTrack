@@ -18,4 +18,4 @@
 
 # 2. Referências
 
-<a href="../">VOLTAR INÍCIO</a>
+<a href="../README.md">VOLTAR INÍCIO</a>
