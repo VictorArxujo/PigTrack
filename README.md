@@ -43,8 +43,8 @@ O sistema é voltado principalmente para **pequenas e médias empresas**, facili
 <ul>
   <li><a href="Requisitos de Usuários/RF.md">Requisitos Funcionais</a></li>
   <li><a href="Requisitos de Usuários/RNF.md">Requisitos Não Funcionais</a></li>
+  <li><a href="Protótipos/LinkProtótipo.md">Protótipo</a></li>
 </ul>
-* Protótipo Navegável
 * Backlog do Produto
 * Manual do Usuário
 
