@@ -39,7 +39,8 @@ O sistema é voltado principalmente para **pequenas e médias empresas**, facili
 
 ## e. Documentos Disponíveis no Repositório
 
-* Requisitos Funcionais
+<a href="/Requisitos de Usuários/RF.md">Requisitos Funcionais</a>
+
 * Requisitos Não Funcionais
 * Protótipo Navegável
 * Backlog do Produto
