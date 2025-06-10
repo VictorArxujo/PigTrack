@@ -17,10 +17,12 @@
 
 ## c. Integrantes do Grupo
 
-| Nome                     | Foto              | GitHub                                                   |
-| ------------------------ | ----------------- | -------------------------------------------------------- |
-| Victor dos Santos Araujo |                   | [github.com/](https://github.com/VictorArxujo) |
-
+| Nome                     |  GitHub                                                   |
+| ------------------------ | -------------------------------------------------------- |
+| Victor dos Santos Araujo | [github.com/](https://github.com/VictorArxujo) |
+| Lincoln Queiroz Teixeira | [github.com/](https://github.com/lincolnqueirozt) |
+| José Carlos da Silva Neto |  [github.com/](https://github.com/jcsneto22) |
+| Rodrigo Méro de Omena |  [github.com/](https://github.com/rodrigomero) |
 >
 
 ---
