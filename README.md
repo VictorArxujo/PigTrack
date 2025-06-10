@@ -17,9 +17,9 @@
 
 ## c. Integrantes do Grupo
 
-| Nome                     | Foto              | GitHub                                                   |   |
-| ------------------------ | ----------------- | -------------------------------------------------------- | - |
-| Victor dos Santos Araujo |                   | [github.com/](https://github.com/seuusuario)VictorArxujo |   |
+| Nome                     | Foto              | GitHub                                                   |
+| ------------------------ | ----------------- | -------------------------------------------------------- |
+| Victor dos Santos Araujo |                   | [github.com/](https://github.com/VictorArxujo) |
 
 >
 
