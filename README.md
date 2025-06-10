@@ -38,8 +38,10 @@ O sistema é voltado principalmente para **pequenas e médias empresas**, facili
 ---
 
 ## e. Documentos Disponíveis no Repositório
-*<a href="Requisitos de Usuários/RF.md">Requisitos Funcionais</a>
-*<a href="Requisitos de Usuários/RNF.md">Requisitos Não Funcionais</a>
+<ul>
+  <li><a href="Requisitos de Usuários/RF.md">Requisitos Funcionais</a></li>
+  <li><a href="Requisitos de Usuários/RNF.md">Requisitos Não Funcionais</a></li>
+</ul>
 * Protótipo Navegável
 * Backlog do Produto
 * Manual do Usuário
