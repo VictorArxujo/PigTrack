@@ -1,10 +1,9 @@
 # PigTrack 🐷📊
-
+---
 **Disciplina:** Desenvolvimento Ágil
 **Código:** EC46C - C61
 **Período:** 2025/01
-
-## c. Integrantes do Grupo
+---
 
 | Nome                     |  GitHub                                                   |
 | ------------------------ | -------------------------------------------------------- |
