@@ -35,5 +35,3 @@ O sistema é voltado principalmente para **pequenas e médias empresas**, facili
 </ul>
 
 ---
-
-> 📌 Conforme o repositório for sendo atualizado, os itens acima devem ser transformados em links clicáveis para os respectivos documentos.
