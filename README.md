@@ -1,19 +1,8 @@
 # PigTrack 🐷📊
 
-## a. Nome da Empresa (Grupo)
-
-**PigTrack**
-*Logo em breve...*
-
----
-
-## b. Nome da Disciplina, Ano e Semestre
-
 **Disciplina:** Desenvolvimento Ágil
 **Código:** EC46C - C61
 **Período:** 2025/01
-
----
 
 ## c. Integrantes do Grupo
 
@@ -27,8 +16,6 @@
 
 ---
 
-## d. Descrição do Projeto
-
 **PigTrack** é um sistema de gerenciamento interno voltado a empresas que desejam organizar com eficiência:
 
 * o **cadastro de funcionários**
@@ -39,14 +26,14 @@ O sistema é voltado principalmente para **pequenas e médias empresas**, facili
 
 ---
 
-## e. Documentos Disponíveis no Repositório
 <ul>
   <li><a href="Requisitos de Usuários/RF.md">Requisitos Funcionais</a></li>
   <li><a href="Requisitos de Usuários/RNF.md">Requisitos Não Funcionais</a></li>
+  <li><a href="Requisitos de Usuários/HistoriasUsuario.md">Historias de Usuário</a></li>
+  <li><a href="Diagrama de Atividade/">Diagrama de Atividades</a></li>
+  <li><a href="Diagrama de Caso de Uso/">Diagrama de Casos de Uso</a></li>
   <li><a href="Protótipos/LinkProtótipo.md">Protótipo</a></li>
 </ul>
-* Backlog do Produto
-* Manual do Usuário
 
 ---
 
