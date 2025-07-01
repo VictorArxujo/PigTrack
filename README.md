@@ -10,7 +10,7 @@
 | Victor dos Santos Araujo | [github.com/VictorArxujo](https://github.com/VictorArxujo) |
 | Lincoln Queiroz Teixeira | [github.com/Lincolnqueirozt](https://github.com/lincolnqueirozt) |
 | José Carlos da Silva Neto |  [github.com/jscneto22](https://github.com/jcsneto22) |
-| Rodrigo Méro de Omena |  [github.com/rodrigomero](https://github.com/rodrigomero) |
+
 >
 
 ---
